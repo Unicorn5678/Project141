@@ -1,0 +1,47 @@
+body
+{
+background-size: cover;
+}
+
+.heading{
+    width:100%;
+    text-align:left;
+}
+
+.heading h1{
+    display:inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status, #restart{
+    font-size: 22px;
+}
+
+h4{
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+#copyright_footer{
+position:sticky;
+width:100%;
+background-color: aliceblue;
+}
+
+canvas{
+    border:solid 5px white; 
+}
